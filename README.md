@@ -29,3 +29,9 @@
 [**Akhila Chekuri (Tue/Thu 7-8pm)**](https://ucsd.zoom.us/j/95714873414)
 
 [**Zhichao Liu (Fri 5-7PM)**](https://ucsd.zoom.us/j/8753747530)
+
+<br>
+<br>
+<br>
+## CSE21-Podcast Lecture: (contributed by Jason)
+[**Lecture-CSE21**](https://podcast.ucsd.edu/watch/fa22/cse21_a00)
