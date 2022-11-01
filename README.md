@@ -6,7 +6,6 @@
 
 [4pm: Shashwat Agrawal](https://youtu.be/XVlODgX5zGU)
 
-[From Jason with Love <3]
 
 ### CSE21-Office Hour: [From Jason with Love <3]
 
