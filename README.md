@@ -1,4 +1,12 @@
-# Zoom link của Office Hour
+# Link Zoom của Office Hour
+
+[Phú Anh](https://ucsd.zoom.us/j/95718967381)
+
+[Thịnh(TBD)]()
+
+[Nhật(TBD)]()
+
+[Jason(TBD)]()
 
 ## Monday, Oct 31
 
