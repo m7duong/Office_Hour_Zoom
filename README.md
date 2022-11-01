@@ -6,4 +6,4 @@
 
 [4pm: Shashwat Agrawal](https://youtu.be/XVlODgX5zGU)
 
-[Jason with love <3]
+[From Jason with love <3]
