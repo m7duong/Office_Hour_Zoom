@@ -1,12 +1,8 @@
-# Link Zoom của Office Hour
+<!-- OFFICE HOURS VIDEOS  -->
 
-[Phú Anh](https://ucsd.zoom.us/j/95718967381)
+## Monday, Nov 01
 
-[Thịnh(TBD)]()
-
-[Nhật(TBD)]()
-
-[Jason(TBD)]()
+[2pm: **Russell**](https://youtu.be/GEbbeShGnnU)
 
 ## Monday, Oct 31
 
@@ -18,7 +14,23 @@
 <br>
 <br>
 
-## CSE21-Office Hour: [From Jason with Love <3]
+<!-- PERSONAL ZOOM LINKS  -->
+<details>
+<summary><h3>Link Zoom của Office Hour</h3></summary>
+
+[Phú Anh](https://ucsd.zoom.us/j/95718967381)
+
+[Thịnh(TBD)]()
+
+[Nhật(TBD)]()
+
+[Jason(TBD)]()
+
+</details>
+
+<!-- OFFICE HOURS ZOOM  -->
+<details>
+<summary><h3>CSE21-Office Hour: [From Jason with Love <3]</h3></summary>
 
 [**Russell (Tue 2-4PM)**](https://ucsd.zoom.us/j/91503384754)
 
@@ -30,10 +42,13 @@
 
 [**Zhichao Liu (Fri 5-7PM)**](https://ucsd.zoom.us/j/8753747530)
 
-<br>
-<br>
-<br>
+</details>
 
-## CSE21-Podcast Lecture:
+<details>
+  
+<!-- PODCAST  -->
+<summary><h3>CSE21-Podcast Lecture</h3></summary>
 
 [**Lecture-CSE21**](https://podcast.ucsd.edu/watch/fa22/cse21_a00)
+
+</details>
