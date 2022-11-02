@@ -13,21 +13,6 @@
 <br>
 <br>
 <br>
-
-<!-- PERSONAL ZOOM LINKS  -->
-<details>
-<summary><h3>Link Zoom của Office Hour</h3></summary>
-
-[Phú Anh](https://ucsd.zoom.us/j/95718967381)
-
-[Thịnh(TBD)]()
-
-[Nhật(TBD)]()
-
-[Jason(TBD)]()
-
-</details>
-
 <!-- OFFICE HOURS ZOOM  -->
 <details>
 <summary><h3>CSE21-Office Hour: [From Jason with Love <3]</h3></summary>
@@ -52,3 +37,19 @@
 [**Lecture-CSE21**](https://podcast.ucsd.edu/watch/fa22/cse21_a00)
 
 </details>
+  
+<!-- PERSONAL ZOOM LINKS  -->
+<details>
+<summary><h3>Link Zoom của Office Hour</h3></summary>
+
+[Phú Anh](https://ucsd.zoom.us/j/95718967381)
+
+[Thịnh(TBD)]()
+
+[Nhật(TBD)]()
+
+[Jason(TBD)](https://ucsd.zoom.us/j/3844708848)
+
+</details>
+
+
