@@ -1,6 +1,6 @@
 <!-- OFFICE HOURS VIDEOS  -->
 
-## Monday, Nov 01
+## Tuesday, Nov 01
 
 [2pm: **Russell**](https://youtu.be/GEbbeShGnnU)
 
