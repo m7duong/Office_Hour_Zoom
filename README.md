@@ -46,7 +46,7 @@
 
 [Thịnh(TBD)]()
 
-[Nhật(TBD)]()
+[Nhật](https://ucsd.zoom.us/j/6416935627)
 
 [Jason(TBD)](https://ucsd.zoom.us/j/3844708848)
 
