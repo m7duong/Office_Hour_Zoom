@@ -1,5 +1,9 @@
 <!-- OFFICE HOURS VIDEOS  -->
 
+## Tuesday, Nov 08
+
+[2pm: **Russell**](https://youtube.com/playlist?list=PL4AmtboypRLarNIbYoOgG88yp9L9uwO-P)
+
 ## Monday, Nov 07
 
 [4pm: Shashwat Agrawal](https://youtube.com/playlist?list=PL4AmtboypRLbyGw2jR8LicssOkZHiBzrM)
