@@ -1,12 +1,16 @@
 <!-- OFFICE HOURS VIDEOS  -->
 
+## Monday, Nov 07
+
+[4pm: Shashwat Agrawal](https://youtube.com/playlist?list=PL4AmtboypRLbyGw2jR8LicssOkZHiBzrM)
+
 ## Tuesday, Nov 01
 
 [2pm: **Russell**](https://youtu.be/GEbbeShGnnU)
 
 ## Monday, Oct 31
 
-[2pm: **Pawan Paleja**](https://youtube.com/playlist?list=PL4AmtboypRLbAxMttHXp-gBUuokbxDaP0)
+[2pm: Pawan Paleja](https://youtube.com/playlist?list=PL4AmtboypRLbAxMttHXp-gBUuokbxDaP0)
 
 [4pm: Shashwat Agrawal](https://youtu.be/XVlODgX5zGU)
 
@@ -48,7 +52,7 @@
 
 [Nhật](https://ucsd.zoom.us/j/6416935627)
 
-[Jason(TBD)](https://ucsd.zoom.us/j/3844708848)
+[Jason](https://ucsd.zoom.us/j/3844708848)
 
 </details>
 
