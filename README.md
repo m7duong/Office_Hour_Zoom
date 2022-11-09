@@ -1,12 +1,13 @@
 <!-- OFFICE HOURS VIDEOS  -->
 
-## Tuesday, Nov 08
+## Wednesday, Nov 09
 
-[7pm: Akhila Chekuri](https://youtu.be/UMrIpkItZWk)
+[11am](https://youtu.be/kxoq9oGNVKc)
 
 ## Tuesday, Nov 08
 
 [2pm: **Russell**](https://youtube.com/playlist?list=PL4AmtboypRLarNIbYoOgG88yp9L9uwO-P)
+[7pm: Akhila Chekuri](https://youtu.be/UMrIpkItZWk)
 
 ## Monday, Nov 07
 
