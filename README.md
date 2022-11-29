@@ -1,5 +1,9 @@
 <!-- OFFICE HOURS VIDEOS  -->
 
+## Monday, Nov 28
+
+[4pm: Shashwat Agrawal](https://youtu.be/w6Kr5VpdLN4)
+
 ## Wednesday, Nov 09
 
 [11am](https://youtu.be/kxoq9oGNVKc)
