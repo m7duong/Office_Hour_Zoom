@@ -3,6 +3,7 @@
 ## Monday, Nov 28
 
 [4pm: Shashwat Agrawal](https://youtu.be/w6Kr5VpdLN4)
+
 [4pm: Shashwat Agrawal (Emma version)](https://youtu.be/a1woAJ9lCUU)
 
 ## Wednesday, Nov 09
