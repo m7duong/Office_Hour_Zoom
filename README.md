@@ -1,5 +1,9 @@
 <!-- OFFICE HOURS VIDEOS  -->
 
+## Tuesday, Nov 29
+
+[10am: Russell - 3 students](https://youtu.be/1aaSaTTwjkQ)
+
 ## Monday, Nov 28
 
 [4pm: Shashwat Agrawal](https://youtu.be/w6Kr5VpdLN4)
