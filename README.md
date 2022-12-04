@@ -2,7 +2,7 @@
 
 ## Tuesday, Nov 29
 
-[10am: Russell - 3 students](https://youtu.be/1aaSaTTwjkQ)
+[10am: Russell - 3 students](https://youtu.be/2EKIB1UBdvY)
 
 ## Monday, Nov 28
 
