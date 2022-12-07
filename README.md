@@ -1,5 +1,9 @@
 <!-- OFFICE HOURS VIDEOS  -->
 
+## Tuesday, Dec 06
+
+[11am] (https://youtu.be/VZ50XnP9qPc)
+
 ## Tuesday, Nov 29
 
 [10am: Russell - 3 students](https://youtu.be/2EKIB1UBdvY)
