@@ -2,7 +2,7 @@
 
 ## Tuesday, Dec 06
 
-[11am] (https://youtu.be/VZ50XnP9qPc)
+[11am](https://youtu.be/VZ50XnP9qPc)
 
 ## Tuesday, Nov 29
 
